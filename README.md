@@ -2,4 +2,5 @@
 <h3>how to use :</h3> </br>
 <strong>npm</strong> install express --save </br>
 <strong>npm</strong> install socket.io </br>
-SIMPLE but STRONG
+
+<h3 style="color:#e42c64">Have fun !!!!</h3> 
